@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>晴天的疗养院</title>
   
-  
+  <subtitle>代码笔记 |  和我的失眠治疗</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-08-21T04:20:46.014Z</updated>
+  <updated>2022-08-21T10:33:15.320Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>caitianqin</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/08/20/first-article/"/>
     <id>http://example.com/2022/08/20/first-article/</id>
     <published>2022-08-20T07:04:51.000Z</published>
-    <updated>2022-08-21T04:20:46.014Z</updated>
+    <updated>2022-08-21T10:33:15.320Z</updated>
     
     <content type="html"><![CDATA[<p>try something</p><p>try more</p><hr><p>miseralbe right now</p><hr><p>seems okay now, I’ll leave for a walk with cc. More dev work later</p><hr><p>okay I’m back, try dairy theme</p><p>not good, only support to hexo V4.2. I’m using hexo 6.2 right now</p><p>settle down to theme “ocean”, find my theme here: <a href="https://github.com/zhwangart/hexo-theme-ocean">https://github.com/zhwangart/hexo-theme-ocean</a><br>great instruction</p><p>now I got hexo-search.</p><p>try add feed and archive, then leave it here for this weekend. </p><p>removed feed for speed consideration</p><p>another theme that looks good is <a href="https://ppoffice.github.io/hexo-theme-hueman/">https://ppoffice.github.io/hexo-theme-hueman/</a></p>]]></content>
     
@@ -38,6 +38,10 @@
     
     
     
+    <category term="tools" scheme="http://example.com/categories/tools/"/>
+    
+    
+    <category term="dairy" scheme="http://example.com/tags/dairy/"/>
     
   </entry>
   
